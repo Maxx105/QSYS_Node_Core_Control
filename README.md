@@ -12,7 +12,6 @@ Simple script to send commands to a Q-Sys Core with Node JS via ECP or QRC
 * [License](#License)
 * [Badges](#Badges)
 * [Tests](#Tests)
-* [Future Development](#Future-Development)
 * [Questions](#Questions)
 
 ## Technologies 
